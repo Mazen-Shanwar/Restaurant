@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.36df0eec.css",
+    "main.js": "/static/js/main.021d3ce0.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/flower.png": "/static/media/flower.f325f587269908c74171.png",
+    "static/media/mtn.png": "/static/media/mtn.1acdb38ac139fb48a8b4.png",
+    "static/media/portfolio.png": "/static/media/portfolio.5f184146d421eb0f8b93.png",
+    "static/media/restaurant.png": "/static/media/restaurant.fbd5ca2a74608985d476.png",
+    "static/media/restaurant2.png": "/static/media/restaurant2.1b7ada9cff79552d9243.png",
+    "static/media/R.png": "/static/media/R.436ee402297990f025a5.png",
+    "static/media/photo_٢٠٢٣-٠٤-٢١_١٩-١٢-٥٧.jpg": "/static/media/photo_٢٠٢٣-٠٤-٢١_١٩-١٢-٥٧.34e0dd4928cdce271ef9.jpg",
+    "static/media/managerrest.png": "/static/media/managerrest.e96a12eacef16e4d77fd.png",
+    "static/media/trix.png": "/static/media/trix.c57208772ca52738a32a.png",
+    "static/media/OIP (2).png": "/static/media/OIP (2).1ca7fbb02a018e5b503b.png",
+    "static/media/react-logo_418x418.png": "/static/media/react-logo_418x418.b07634fdba0f3e78c99c.png",
+    "static/media/777.png": "/static/media/777.c5213e47d36d08131e60.png",
+    "static/media/OIP.jpg": "/static/media/OIP.86ea90919c3f33faa467.jpg",
+    "static/media/OIP (4).png": "/static/media/OIP (4).7686a6da4705530da215.png",
+    "static/media/OIP (1).png": "/static/media/OIP (1).f15aac6c2350c19caabf.png",
+    "static/media/chess.png": "/static/media/chess.f60e0226f1bd8277fdee.png",
+    "static/media/R (1).png": "/static/media/R (1).5857e021bf02081fa355.png",
+    "index.html": "/index.html",
+    "main.36df0eec.css.map": "/static/css/main.36df0eec.css.map",
+    "main.021d3ce0.js.map": "/static/js/main.021d3ce0.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36df0eec.css",
+    "static/js/main.021d3ce0.js"
+  ]
+}
